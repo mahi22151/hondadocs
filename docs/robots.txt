@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://hondaguide.readthedocs.io/en/latest/
