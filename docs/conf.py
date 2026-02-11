@@ -25,4 +25,4 @@ html_context = {
 }
 
 # Base URL for sitemap
-html_baseurl = 'https://hondaguide.readthedocs.io/en/latest/'
+html_baseurl = 'https://hondadocs.readthedocs.io/en/latest/'
